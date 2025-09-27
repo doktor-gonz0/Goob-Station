@@ -90,6 +90,7 @@
           effects:
             - !type:WashCreamPieReaction # Damage (Self)
 
+
     - type: Bloodstream
       bloodReagent: CopperBlood
     # Damage (Others)
@@ -160,6 +161,7 @@
         - map: ["eyes"]
         - map: ["enum.HumanoidVisualLayers.HeadTop"]
         - map: ["maskalt"]
+        - map: ["eyes"]
         - map: ["mask"]
         - map: ["head"]
         - map: ["pocket1"]
